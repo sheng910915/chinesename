@@ -4,7 +4,7 @@ namespace Sophie\Chinesename;
 
 use Exception;
 use Sophie\Chinesename\constants\Chinese;
-class Main
+class ChineseName
 {
     const RANDOM_LEN_NAME = 0; // Random length name  It can only be two, three, four
 
