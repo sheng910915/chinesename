@@ -1,0 +1,17 @@
+{
+    "name": "sheng/chinesename",
+    "description": "Choose a random Chinese name",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Sheng\\Chinesename\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sunguangsheng",
+            "email": "sunguangsheng@yuanxinjituan.com"
+        }
+    ],
+    "require": {}
+}
