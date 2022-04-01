@@ -1,10 +1,9 @@
 <?php
 
-namespace Sheng\Chinesename;
+namespace Sophie\Chinesename;
 
 use Exception;
-use Sheng\Chinesename\constants\Chinese;
-include './constants/Chinese.php';
+use Sophie\Chinesename\constants\Chinese;
 class Main
 {
     const RANDOM_LEN_NAME = 0; // Random length name  It can only be two, three, four

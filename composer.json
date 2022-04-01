@@ -1,10 +1,10 @@
 {
-    "name": "sheng/chinesename",
+    "name": "sophie/chinesename",
     "description": "Choose a random Chinese name",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Sheng\\Chinesename\\": "src/"
+            "sophie\\Chinesename\\": "src/"
         }
     },
     "authors": [

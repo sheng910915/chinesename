@@ -1,6 +1,6 @@
 <?php
 
-namespace Sheng\Chinesename\constants;
+namespace Sophie\Chinesename\constants;
 
 class Chinese {
     const FIRST_NAME = array('赵', '钱', '孙', '李', '周', '吴', '郑', '王', '冯', '陈', '褚', '卫', '蒋', '沈', '韩', '杨', '朱', '秦', '尤', '许', '何', '吕', '施', '张', '孔', '曹', '严', '华', '金', '魏', '陶', '姜',
